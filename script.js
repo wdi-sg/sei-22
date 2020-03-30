@@ -15,9 +15,20 @@ var display = function( data ){
 
 document.querySelector('#input').addEventListener('change', function(event){
 	var currentInput = event.target.value;
-    var result = inputHappened(currentInput);
-    display( result );
-    });
+	if (turns ===1) {
+
+		newQuestion = generateQueston();
+		var question = document.getElementById("question");
+		var newItem = document.createElement('a');
+		newItem.textContent = newQuestion;
+		question.appendChild(newItem);
+	}
+	else {
+		var result = inputHappened(currentInput);
+    	display( result );
+    }
+	});
+    
 
 var footballersData = [
 	{
@@ -58,6 +69,8 @@ var generateQueston = function() {
 	secretWord = footballersData[randomIndex].name.split("");
 	console.log(secretWord);
 	turns ++;
+	console.log(footballersData[randomIndex].description);
+
 	return footballersData[randomIndex].description;
 }
 
@@ -82,9 +95,7 @@ var inputHappened = function(currentInput){
   if (turns === 0) {
   	return initiate(currentInput);
   }
-  if (turns === 1) {
-  	return generateQueston(currentInput);
-  }
+  
   else {
   	if (checkWithInput(currentInput) === false && attemptsLeft === 0){
     	return "Game Over";
@@ -100,8 +111,12 @@ var inputHappened = function(currentInput){
     	guessedLetters.push(currentInput);
       	console.log(guessedLetters)
       	if (guessedLetters.length === secretWord.length) {
+      		// To generate the next question
       		turns = 1;
-        	return "Well done, you got it! Ready for the next question?"
+      		// clear up the question element
+      		question.innerHTML = "";
+
+        	return "Well done, you got it! Your next question is..."
       }
     
       else {
