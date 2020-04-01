@@ -1,6 +1,6 @@
 # SEI-22
 
-Class repo - software engineering immersive 21
+Class repo - software engineering immersive 22
 
 | Name | Project 1 | Project 2 | Project 3 | Project 4 |
 | ---- | --------- |---------- | --------- | --------- |
