@@ -18,7 +18,7 @@ Class repo - software engineering immersive 22
 |Kenneth|[Project1GameInJS](https://kenneththesheep.github.io/Project1GameInJS/) / [Repo](https://github.com/kenneththesheep/Project1GameInJS)|-|-|-|
 |Kok Chuan|[Texas Hold 'em](https://kokchuantan.github.io/kokchuan-project1/) / [Repo](https://github.com/kokchuantan/kokchuan-project1)|-|-|-|
 |Kwan Sing|-|-|-|-|
-|Marcel|[Memory Game](https://marcelchia.github.io/MEMORY-GAME/) / [Repo]()https://github.com/Marcelchia/MEMORY-GAME|-|-|-|
+|Marcel|[Memory Game](https://marcelchia.github.io/MEMORY-GAME/) / [Repo](https://github.com/Marcelchia/MEMORY-GAME)|-|-|-|
 |Marcus|-|-|-|-|
 |Nausheen|[Rock Paper Scissors](https://nausheen-s.github.io/ROCK_PAPER_SCISSORS/) / [Repo](https://github.com/Nausheen-S/ROCK_PAPER_SCISSORS/)|-|-|-|
 |Osborne|[Mastermind](https://osbornechan.github.io/mastermind/) / [Repo](https://github.com/osbornechan/mastermind)|-|-|-|
