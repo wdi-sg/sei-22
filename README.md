@@ -6,7 +6,7 @@ Class repo - software engineering immersive 22
 | ---- | --------- |---------- | --------- | --------- |
 |Ari|-|-|-|-|
 |Azhar|[Connect 4](https://mdazharaw.github.io/connect-four/) / [Repo](https://github.com/mdazharaw/connect-four)|-|-|-|
-|Bobby|-|-|-|-|
+|Bobby|[Checkers](https://bobbykwong.github.io/checkers_game/) / [Repo](https://github.com/bobbykwong/checkers_game)|-|-|-|
 |Chelsea|[Javascript Uno](https://chelsejw.github.io/javascript-uno/) / [Repo](https://github.com/chelsejw/javascript-uno)|-|-|-|
 |Daniel|-|-|-|-|
 |Denny|-|-|-|-|
