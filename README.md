@@ -25,9 +25,9 @@ Class repo - software engineering immersive 22
 |Qun Da|-|-|-|-|
 |Rachel|[pOne](https://rachelik.github.io/pOne/) / [Repo](https://github.com/Rachelik/pOne)|-|-|-|
 |Shane|-|-|-|-|
-|Thomas|-|-|-|-|
+|Thomas|[XCOM v2](https://thomasoh92.github.io/project-1-XCOM-v2/) / [Repo](https://github.com/ThomasOh92/project-1-XCOM-v2)|-|-|-|
 |Travis|-|-|-|-|
-|Vignesh|-|-|-|-|
+|Vignesh|[FiveXFive](https://vigbit.github.io/SEI-project-1/) / [Repo](https://github.com/vigbit/SEI-project-1)|-|-|-|
 |Yannie|[Scissors Paper Stone](https://yannieyeung.github.io/SEI-Project1-ScissorsPaperStone/) / [Repo](https://github.com/yannieyeung/SEI-Project1-ScissorsPaperStone)|-|-|-|
 |Yusof|-|-|-|-|
 |Zach|-|-|-|-|
