@@ -21,7 +21,7 @@ Class repo - software engineering immersive 21
 |Marcel|-|-|-|-|
 |Marcus|-|-|-|-|
 |Nausheen|[Rock Paper Scissors](https://nausheen-s.github.io/ROCK_PAPER_SCISSORS/) / [Repo](https://github.com/Nausheen-S/ROCK_PAPER_SCISSORS/)|-|-|-|
-|Osbourne|[Mastermind](https://osbornechan.github.io/mastermind/) / [Repo](https://github.com/osbornechan/mastermind)|-|-|-|
+|Osborne|[Mastermind](https://osbornechan.github.io/mastermind/) / [Repo](https://github.com/osbornechan/mastermind)|-|-|-|
 |Qun Da|-|-|-|-|
 |Rachel|[pOne](https://rachelik.github.io/pOne/) / [Repo](https://github.com/Rachelik/pOne)|-|-|-|
 |Shane|-|-|-|-|
