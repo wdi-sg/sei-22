@@ -15,7 +15,7 @@ Class repo - software engineering immersive 22
 |Hwee Meng|-|-|-|-|
 |Ian|-|-|-|-|
 |Kenan|-|-|-|-|
-|Kenneth|-|-|-|-|
+|Kenneth|[Project1GameInJS](https://kenneththesheep.github.io/Project1GameInJS/) / [Repo](https://github.com/kenneththesheep/Project1GameInJS)|-|-|-|
 |Kok Chuan|[Texas Hold 'em](https://kokchuantan.github.io/kokchuan-project1/) / [Repo](https://github.com/kokchuantan/kokchuan-project1)|-|-|-|
 |Kwan Sing|-|-|-|-|
 |Marcel|-|-|-|-|
