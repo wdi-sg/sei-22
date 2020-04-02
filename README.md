@@ -12,8 +12,9 @@ Class repo - software engineering immersive 22
 |Denny|[Fishburger or Cheeseburger](https://dennywithane.github.io/SEI-22-Create-Your-Game/) / [Repo](https://github.com/DennyWithAnE/SEI-22-Create-Your-Game)|-|-|-|
 |Dian Chun|[Conway's Game Of Life](https://wickker.github.io/project1-game/) / [Repo](https://github.com/wickker/project1-game)|-|-|-|
 |Dyana|[Othello](https://dyanawu.github.io/sei-proj-othello/) / [Repo](https://github.com/dyanawu/sei-proj-othello)|-|-|-|
-|Hwee Meng|-|-|-|-|
+|Hwee Meng|[Dungeon Game](https://hweemeng.github.io/project-1/) / [Repo](https://github.com/HweeMeng/project-1)|-|-|-|
 |Ian|-|-|-|-|
+|Jordan|[Space Invaders](https://jordanswp.github.io/SEI-22-Project-1-Space-Invaders/) / [Repo](https://github.com/jordanswp/SEI-22-Project-1-Space-Invaders)|-|-|-|
 |Kenan|-|-|-|-|
 |Kenneth|[Project1GameInJS](https://kenneththesheep.github.io/Project1GameInJS/) / [Repo](https://github.com/kenneththesheep/Project1GameInJS)|-|-|-|
 |Kok Chuan|[Texas Hold 'em](https://kokchuantan.github.io/kokchuan-project1/) / [Repo](https://github.com/kokchuantan/kokchuan-project1)|-|-|-|
