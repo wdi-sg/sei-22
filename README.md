@@ -10,7 +10,7 @@ Class repo - software engineering immersive 22
 |Chelsea|[Javascript Uno](https://chelsejw.github.io/javascript-uno/) / [Repo](https://github.com/chelsejw/javascript-uno)|-|-|-|
 |Daniel|-|-|-|-|
 |Denny|-|-|-|-|
-|Dian Chun|-|-|-|-|
+|Dian Chun|[Conway's Game Of Life](https://wickker.github.io/project1-game/) / [Repo](https://github.com/wickker/project1-game)|-|-|-|
 |Dyana|[Othello](https://dyanawu.github.io/sei-proj-othello/) / [Repo](https://github.com/dyanawu/sei-proj-othello)|-|-|-|
 |Hwee Meng|-|-|-|-|
 |Ian|-|-|-|-|
