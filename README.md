@@ -9,7 +9,7 @@ Class repo - software engineering immersive 22
 |Bobby|[Checkers](https://bobbykwong.github.io/checkers_game/) / [Repo](https://github.com/bobbykwong/checkers_game)|-|-|-|
 |Chelsea|[Javascript Uno](https://chelsejw.github.io/javascript-uno/) / [Repo](https://github.com/chelsejw/javascript-uno)|-|-|-|
 |Daniel|-|-|-|-|
-|Denny|-|-|-|-|
+|Denny|[Fishburger or Cheeseburger](https://dennywithane.github.io/SEI-22-Create-Your-Game/) / [Repo](https://github.com/DennyWithAnE/SEI-22-Create-Your-Game)|-|-|-|
 |Dian Chun|[Conway's Game Of Life](https://wickker.github.io/project1-game/) / [Repo](https://github.com/wickker/project1-game)|-|-|-|
 |Dyana|[Othello](https://dyanawu.github.io/sei-proj-othello/) / [Repo](https://github.com/dyanawu/sei-proj-othello)|-|-|-|
 |Hwee Meng|-|-|-|-|
@@ -26,7 +26,7 @@ Class repo - software engineering immersive 22
 |Rachel|[pOne](https://rachelik.github.io/pOne/) / [Repo](https://github.com/Rachelik/pOne)|-|-|-|
 |Shane|-|-|-|-|
 |Thomas|[XCOM v2](https://thomasoh92.github.io/project-1-XCOM-v2/) / [Repo](https://github.com/ThomasOh92/project-1-XCOM-v2)|-|-|-|
-|Travis|-|-|-|-|
+|Travis|[Video Poker](https://travisenquiry.github.io/sei22-poker-game/) / [Repo](https://github.com/Travisenquiry/sei22-poker-game)|-|-|-|
 |Vignesh|[FiveXFive](https://vigbit.github.io/SEI-project-1/) / [Repo](https://github.com/vigbit/SEI-project-1)|-|-|-|
 |Yannie|[Scissors Paper Stone](https://yannieyeung.github.io/SEI-Project1-ScissorsPaperStone/) / [Repo](https://github.com/yannieyeung/SEI-Project1-ScissorsPaperStone)|-|-|-|
 |Yusof|-|-|-|-|
