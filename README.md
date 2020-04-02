@@ -31,9 +31,4 @@ Class repo - software engineering immersive 22
 |Vignesh|[FiveXFive](https://vigbit.github.io/SEI-project-1/) / [Repo](https://github.com/vigbit/SEI-project-1)|-|-|-|
 |Yannie|[Scissors Paper Stone](https://yannieyeung.github.io/SEI-Project1-ScissorsPaperStone/) / [Repo](https://github.com/yannieyeung/SEI-Project1-ScissorsPaperStone)|-|-|-|
 |Yusof|-|-|-|-|
-<<<<<<< HEAD
-|Zach|[Queen's Cup](https://zachariahchow.github.io/unit-1-project-Kweens-Cup/) / [Repo](https://github.com/zachariahchow/unit-1-project-Kweens-Cup
-)|-|-|-|
-=======
 |Zach|[Kweens Cup](https://zachariahchow.github.io/unit-1-project-Kweens-Cup/) / [Repo](https://github.com/zachariahchow/unit-1-project-Kweens-Cup)|-|-|-|
->>>>>>> e54e5471f10a9d26d6893cf8c5fb35da46367ab9
