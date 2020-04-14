@@ -18,7 +18,7 @@ Class repo - software engineering immersive 22
 |Kenan|[Azkara](https://dev-seahouse.github.io/akzara_game/) / [Repo](https://github.com/dev-seahouse/akzara_game)|-|-|-|
 |Kenneth|[Project1GameInJS](https://kenneththesheep.github.io/Project1GameInJS/) / [Repo](https://github.com/kenneththesheep/Project1GameInJS)|-|-|-|
 |Kok Chuan|[Texas Hold 'em](https://kokchuantan.github.io/kokchuan-project1/) / [Repo](https://github.com/kokchuantan/kokchuan-project1)|-|-|-|
-|Kwan Sing|-|-|-|-|
+|Kwan Sing|[Kwan Game Project](https://kwansing14.github.io/Kwan-game-project/) / [Repo](https://github.com/kwansing14/Kwan-game-project)|-|-|-|
 |Marcel|[Memory Game](https://marcelchia.github.io/MEMORY-GAME/) / [Repo](https://github.com/Marcelchia/MEMORY-GAME)|-|-|-|
 |Marcus|[Karuta](https://marctanyh.github.io/Marcus-Project-1-Karuta/) / [Repo](https://github.com/marctanyh/Marcus-Project-1-Karuta)|-|-|-|
 |Nausheen|[Rock Paper Scissors](https://nausheen-s.github.io/ROCK_PAPER_SCISSORS/) / [Repo](https://github.com/Nausheen-S/ROCK_PAPER_SCISSORS/)|-|-|-|
