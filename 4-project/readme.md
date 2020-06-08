@@ -83,7 +83,7 @@ Some possible reasons for choosing a given project idea:
 
 
 ### Project Feedback + Evaluation
-The project should demonstrate that the student is minimally capable of __applying__ the things they saw during their entire time at WDI.
+The project should demonstrate that the student is minimally capable of __applying__ the things they saw during their entire time at SEI.
 
 Given __Bloom's Taxonomy__ students should be able to apply their knowledge of web programming using HTML, CSS, javascript and ruby or node.js on the server side. Students must remember enough of the concepts to to understand how to apply their knowledge / build this project.
 
